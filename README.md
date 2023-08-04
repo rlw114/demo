@@ -1,12 +1,12 @@
-# [umaiaa.com](http://umaiaa.com/)
+# [richiearts.com](http://richiearts.com/)
 
-## American Institute of Aeronautics and Astronautics, University of Miami chapter website
+## Richieart Investment LLC website
 
 ## Featuring:
 
-* Rocket Canes
-* Design Build Fly Team
-* Astronomy Club
-* Space Club
+* Art Portfolios 
+* Consultancy Services
+* Merchandise 
+* Meet the Artist
 
-Maintained by University of Miami AIAA Webmaster **Devin Michaels**
+Maintained by founder of Richieart Investment: Lei Wang
